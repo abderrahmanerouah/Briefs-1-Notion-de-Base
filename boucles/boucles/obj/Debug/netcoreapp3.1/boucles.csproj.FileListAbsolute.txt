@@ -1,0 +1,13 @@
+C:\Users\youcode\source\repos\boucles\boucles\bin\Debug\netcoreapp3.1\boucles.exe
+C:\Users\youcode\source\repos\boucles\boucles\bin\Debug\netcoreapp3.1\boucles.deps.json
+C:\Users\youcode\source\repos\boucles\boucles\bin\Debug\netcoreapp3.1\boucles.runtimeconfig.json
+C:\Users\youcode\source\repos\boucles\boucles\bin\Debug\netcoreapp3.1\boucles.runtimeconfig.dev.json
+C:\Users\youcode\source\repos\boucles\boucles\bin\Debug\netcoreapp3.1\boucles.dll
+C:\Users\youcode\source\repos\boucles\boucles\bin\Debug\netcoreapp3.1\boucles.pdb
+C:\Users\youcode\source\repos\boucles\boucles\obj\Debug\netcoreapp3.1\boucles.AssemblyInfoInputs.cache
+C:\Users\youcode\source\repos\boucles\boucles\obj\Debug\netcoreapp3.1\boucles.AssemblyInfo.cs
+C:\Users\youcode\source\repos\boucles\boucles\obj\Debug\netcoreapp3.1\boucles.csproj.CoreCompileInputs.cache
+C:\Users\youcode\source\repos\boucles\boucles\obj\Debug\netcoreapp3.1\boucles.dll
+C:\Users\youcode\source\repos\boucles\boucles\obj\Debug\netcoreapp3.1\boucles.pdb
+C:\Users\youcode\source\repos\boucles\boucles\obj\Debug\netcoreapp3.1\boucles.genruntimeconfig.cache
+C:\Users\youcode\source\repos\boucles\boucles\obj\Debug\netcoreapp3.1\boucles.csprojAssemblyReference.cache

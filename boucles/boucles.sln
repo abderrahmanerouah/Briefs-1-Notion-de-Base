@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boucles", "boucles\boucles.csproj", "{DC3820A7-CB1F-4DA2-A083-3A63A8E94877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC3820A7-CB1F-4DA2-A083-3A63A8E94877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3820A7-CB1F-4DA2-A083-3A63A8E94877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3820A7-CB1F-4DA2-A083-3A63A8E94877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3820A7-CB1F-4DA2-A083-3A63A8E94877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2BB8216-FEB2-4E96-95DD-D0986E578AFA}
+	EndGlobalSection
+EndGlobal
